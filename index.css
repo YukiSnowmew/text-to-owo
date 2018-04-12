@@ -1,0 +1,13 @@
+form {
+    display: flex;
+    justify-content: center;
+}
+
+textarea {
+    width: 80%;
+    height: 200px;
+}
+
+button {
+    width: 10%;
+}
